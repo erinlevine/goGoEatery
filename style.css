@@ -5,7 +5,7 @@
 
 .slidePhotos {
     max-width: 100%!important;
-    height: auto;
+    height: 100%;
 }
 
 #callToAction {
@@ -15,7 +15,7 @@
     -o-background-size: cover;
     background-size: 100%;
     height: auto;
-    text-align: center
+    text-align: center;
 }
 
 .awesome {
